@@ -9,6 +9,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            int a = 0;
+            Console.WriteLine("Github 테스트");
         }
     }
 }
